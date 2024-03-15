@@ -45,8 +45,7 @@ public class Zantua_OOPActivity_1 {
         
         System.out.println("\n" + "Name: " + firstName + " "+ middleInitial + " " + 
                  lastName + "\n" + "Gender: " + gender + "\n" + "Age: " 
-                + age + "\n" + "Birthdate: " 
-        + month + "/" + day + "/" + year);
+                + age + "\n" + "Birthdate: " + month + "/" + day + "/" + year);
     }
     
 }
