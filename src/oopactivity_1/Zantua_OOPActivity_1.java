@@ -43,9 +43,9 @@ public class Zantua_OOPActivity_1 {
         year = data.nextInt();
         
         
-        System.out.println("First Name: " + firstName + "\n" + "Middle Initial: "
-                    + middleInitial + "\n" + "Last Name: " + lastName + "\n" + 
-                "Gender: " + gender + "\n" + "Age: " + age + "\n" + "Birthdate: " 
+        System.out.println("\n" + "Name: " + firstName + " "+ middleInitial + " " + 
+                 lastName + "\n" + "Gender: " + gender + "\n" + "Age: " 
+                + age + "\n" + "Birthdate: " 
         + month + "/" + day + "/" + year);
     }
     
